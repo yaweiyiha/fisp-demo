@@ -1,0 +1,15 @@
+{
+  "name": "pc-demo",
+  "version": "0.0.4",
+  "description": "fis-plus demo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "fis-plus",
+    "demo"
+  ],
+  "author": "fansekey@gmail.com",
+  "license": "MIT"
+}
